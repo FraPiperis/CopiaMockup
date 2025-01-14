@@ -13,13 +13,10 @@
 #Jumb {
     background-color: rgba(113, 58, 250, 0.902);
     height: 300px;
-}
-.container > h1 {
+    max-width: 100%;
+    display: flex; 
+    justify-content: space-around;
     color: rgb(255, 255, 255);
-}
-.container > img {
-    width: 200px;
-    height: 150px;
 }
 #Barra2 {
    padding: 15px;
@@ -27,4 +24,13 @@
 }
 main {
     text-align: center;
+ }
+.bott1 {
+    background-color: rgb(71, 191, 151);
+    font-size: smaller;
+ }
+ .bott2 {
+    background-color: rgb(254, 254, 254);
+    font-size: smaller;
+    color: black;
  }
