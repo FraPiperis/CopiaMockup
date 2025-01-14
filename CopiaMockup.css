@@ -18,10 +18,13 @@
     color: rgb(255, 255, 255);
 }
 .container > img {
-    width: 90px;
-    height: 80px;
+    width: 200px;
+    height: 150px;
 }
 #Barra2 {
    padding: 15px;
-   background-color: rgb(138, 20, 20);
+   background-color: rgba(221, 216, 216, 0.566);
 }
+main {
+    text-align: center;
+ }
