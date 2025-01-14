@@ -34,3 +34,8 @@ main {
     font-size: smaller;
     color: black;
  }
+.icon {
+    padding: 10px;
+    background-color: rgb(234, 196, 160);
+    border-radius: 50px;
+ }
