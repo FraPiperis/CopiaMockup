@@ -16,5 +16,12 @@
 }
 .container > h1 {
     color: rgb(255, 255, 255);
-    
+}
+.container > img {
+    width: 90px;
+    height: 80px;
+}
+#Barra2 {
+   padding: 15px;
+   background-color: rgb(138, 20, 20);
 }
